@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://siddik-abu-bakar.github.io/sitemap.xml
